@@ -17,6 +17,10 @@ public class creatingvars {
         title = "Mr.";
 
         System.out.println("The variable x contains: " + x);
-        System.out.println("The value" + y "is stored in the vair");
+        System.out.println("The value" + y + "is stored in the variable y");
+        System.out.println("The experiment took" + seconds +"seconds.");
+        System.out.println("A favorite irrational number is Euler's number, e: " + e);
+        System.out.println("Hopefully you have more than $" + checking + "!");
+        System.out.println("My name is:" + title + firstname + lastname);
     }
 }
